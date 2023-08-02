@@ -1,0 +1,3 @@
+project install in console write -> npm start
+start project in console write -> npm start
+acess project in your browser -> localhost: 1515
